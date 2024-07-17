@@ -35,11 +35,13 @@ CUENTAS
 
 ### Sequence Diagram
                     
-``` seq
-Andrew -> China: Says Hello 
+###Sequence Diagram
+                    
+```seq
+Andrew->China: Says Hello 
 Note right of China: China thinks\nabout it 
-China -->Andrew: How are you? 
-Andrew ->>China: I am good thanks!
+China-->Andrew: How are you? 
+Andrew->>China: I am good thanks!
 ```
 
 BUSCAR: 
@@ -224,7 +226,7 @@ https://www.inesem.es/Curso-Superior-Universitario-Profesor-Espanol-Extranjeros?
 https://eleinternacional.com/curso-universitario-formacion-en-la-ensenanza-de-espanol-como-lengua-extranjera/
 
 --- IDIOMAS ---
-EX¡MENES B2 DE LA EOI: https://idiomium.es/examenes/banco-de-examenes-de-ingles/examenes-eoi-nivel-avanzado-ingles/#:~:text=ex%C3%A1menes%20de%20nivel%20avanzado%20B2,una%20nueva%20parte%2C%20llamada%20mediation.
+EX√ÅMENES B2 DE LA EOI: https://idiomium.es/examenes/banco-de-examenes-de-ingles/examenes-eoi-nivel-avanzado-ingles/#:~:text=ex%C3%A1menes%20de%20nivel%20avanzado%20B2,una%20nueva%20parte%2C%20llamada%20mediation.
 
 	
 	url: Duolingo				url: www.abaenglish.com
@@ -242,7 +244,7 @@ EX¡MENES B2 DE LA EOI: https://idiomium.es/examenes/banco-de-examenes-de-ingles/
 	pass: tut...				pass: usa...
 						[becerrfj -> usa...]
 	
-	url: bussuu (FrancÈs)			url: bussuu (InglÈs)
+	url: bussuu (Franc√©s)			url: bussuu (Ingl√©s)
 	email: fjbecerr2@gmail.com		email: fjbecerr@hotmail.es
 	pass: bus...				pas: bus...
 
@@ -260,8 +262,8 @@ EX¡MENES B2 DE LA EOI: https://idiomium.es/examenes/banco-de-examenes-de-ingles/
 	user: Francisco_J
 	pass: pen...
 
-Correcto de redacciones en varios idiomas: Corrector autom·tico en varios idiomas.
-Comprobar pronunciaciÛn: https://app.speechace.co/placement/
+Correcto de redacciones en varios idiomas: Corrector autom√°tico en varios idiomas.
+Comprobar pronunciaci√≥n: https://app.speechace.co/placement/
 Web de intercambio: https://www.similarweb.com/es/website/speaking24.com/competitors/
  https://www.conversationexchange.com/
 	fjbecerr@hotmail.es
@@ -341,8 +343,8 @@ globalfriendpens
 =================
 --- DESARROLLO --
 =================
-	FORMACI”N M¡LAGA/ONLINE: https://codespaceacademy.com/cursos-it-formacion/
-	FORMACI”N: https://www.fundacionibercaja.es/actividades/ciclos-y-programas/experto-universitario-en-full-stack-developer/
+	FORMACI√ìN M√ÅLAGA/ONLINE: https://codespaceacademy.com/cursos-it-formacion/
+	FORMACI√ìN: https://www.fundacionibercaja.es/actividades/ciclos-y-programas/experto-universitario-en-full-stack-developer/
 
 	https://geekflare.com/es/online-code-editors/
 
@@ -384,7 +386,7 @@ globalfriendpens
 	url: Codeanywhere [Contenedores]	url: https://www.gitpod.io/
 	email: fjbecerr2@gmail.com		email: fjbecerr2@gmail.com
 	pass: cod...2				pass: (Asociado a github)
-	(Caducada opciÛn gratuita)					(Similar Sandbox)
+	(Caducada opci√≥n gratuita)					(Similar Sandbox)
 
 	
 	url: Amazon web service	[Contenedores]	url: Adobe
@@ -394,7 +396,7 @@ globalfriendpens
 	url: https://www.codacy.com/		url: https://sonarcloud.io/
 	email: fjbecerr2@gmail.com		email: fjbecerr2@gmail.com
 	pass: (Asociado a github)		pass: (Asociado a github)
-	uso: Analisis de cÛdigo est·tico	uso: Analisis de cÛdigo est·tico
+	uso: Analisis de c√≥digo est√°tico	uso: Analisis de c√≥digo est√°tico
 
 	url: https://www.terraform.io/		url:	https://asana.com/es/
 	email: fjbecerr2@gmail.com		email:	franbecpin@gmail.com
@@ -518,28 +520,28 @@ Avast -> fjbecerr2 -> #NO OPERATIVO
 CEVUGR			-> al8575	-> ugr...
 Enlace: http://campus.viu.es/
 Usuario : franciscojose.becerra
-ContraseÒa: 0pVaLo28N8kZ
+Contrase√±a: 0pVaLo28N8kZ
 
 
 Universidad Europera
 --------------------
-EXPERTO UNIVERSITARIO EN GESTI”N DE PROYECTOS Y METODOLOGÕAS AGILE
+EXPERTO UNIVERSITARIO EN GESTI√ìN DE PROYECTOS Y METODOLOG√çAS AGILE
 https://universidadeuropea.com/curso-gestion-proyectos-metodologias-agile-online/
-ONLINE- Matric˙late y empieza en 10 dÌas - 2.000§/ Pago ˙nico
+ONLINE- Matric√∫late y empieza en 10 d√≠as - 2.000¬§/ Pago √∫nico
 
 CURSO UNIVERSITARIO EN AGILE Y SCRUM
 https://universidadeuropea.com/curso-agile-scrum-online/
-ONLINE- Matric˙late y empieza en 10 dÌas - 1.000§/ Pago ˙nico
+ONLINE- Matric√∫late y empieza en 10 d√≠as - 1.000¬§/ Pago √∫nico
 
 Universidad Internacional de Valencia
 ------------------------------------
-Experto Universitario en ProgramaciÛn en Python
+Experto Universitario en Programaci√≥n en Python
 https://www.universidadviu.com/es/curso-programacion-python
 
 Cursos de Detective Privado
 https://www.udima.es/es/curso-detective-privado.html
 
-Detective Privado, VI EdiciÛn.
+Detective Privado, VI Edici√≥n.
 https://www.upo.es/postgrado/Diploma-de-Extension-Universitaria-en-Detective-Privado/
 
 
@@ -551,18 +553,18 @@ https://estudiar.unir.net/es/es-esp-cu-ing-curso-devops-cloud/?gclid=CjwKCAjwrZO
 https://formacionpermanente.uned.es/
 Guion de Cine
 https://formacionpermanente.uned.es/tp_actividad/actividad/guion-de-cine
-Precio de matrÌcula: 420,00 §.
+Precio de matr√≠cula: 420,00 ¬§.
 
 
 Taller de Narrativa
 https://formacionpermanente.uned.es/tp_actividad/actividad/taller-de-narrativa
 del 2 de diciembre de 2022 al 31 de mayo de 2023
-Precio de matrÌcula: 280,00 §.
+Precio de matr√≠cula: 280,00 ¬§.
 
 
 
 
- , es atacado Ettore Capriolo (traductor al italiano) y Hitoshi Igarashi (traductor al japonÈs), William Nygaard(editor de la novela en Noruega) son asesinados
+ , es atacado Ettore Capriolo (traductor al italiano) y Hitoshi Igarashi (traductor al japon√©s), William Nygaard(editor de la novela en Noruega) son asesinados
 
 
 
